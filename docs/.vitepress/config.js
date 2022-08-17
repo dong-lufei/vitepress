@@ -14,7 +14,7 @@ export default {
   ],
   ignoreDeadLinks: true, // 默认值false,忽略死链接，不会因为死链接而导致构建失败
   // appearance: false, // 主题是否暗色，默认true
-  // base: "/", // 默认值为'/',部署站点的基本 URL
+  base: "/vitepress/", // 默认值为'/',部署站点的基本 URL
   // outDir: "../public",   // 默认值为'./.vitepress/dist' 构建输出位置
   // 配置 Markdown 解析器
   markdown: {
