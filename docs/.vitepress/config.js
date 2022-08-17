@@ -1,4 +1,4 @@
-const anchor = require("markdown-it-anchor")
+// const anchor = require("markdown-it-anchor")
 
 export default {
   // lang: 'en-US', // 默认为：en-US，<html lang="en-US">页面 HTML 中的标签
@@ -85,7 +85,6 @@ export default {
           items: [
             { text: "什么是 VitePress？", link: "/guide/什么是 VitePress？" },
             { text: "配置和部署", link: "/guide/配置和部署" }
-            
           ]
         },
         {
@@ -98,7 +97,6 @@ export default {
               link: "/guide/在 Markdown 中使用 Vue"
             },
             { text: "API 参考", link: "/guide/API 参考" },
-            
           ]
         }
       ],
