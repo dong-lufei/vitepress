@@ -20,4 +20,11 @@ yarn add -D vitepress vue
   "docs:serve": "vitepress serve docs"
 }
 ```
+
+# 此项目使用方法：
+
+## 安装依赖
+yarn
+
 ## 启动项目
+yarn docs:dev
