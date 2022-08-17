@@ -9,7 +9,7 @@ export default {
   head: [
     [
       "link",
-      { rel: "shortcut icon", href: "/favicon.ico",type:"image/x-icon" }
+      { rel: "shortcut icon", href: "/vitepress/favicon.ico",type:"image/x-icon" }
     ] // 在HTML页面<head>里插入元素
   ],
   ignoreDeadLinks: true, // 默认值false,忽略死链接，不会因为死链接而导致构建失败
